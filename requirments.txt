@@ -1,0 +1,13 @@
+emoji 2.11.1
+
+------------------------
+pip install emoji
+-------------------------
+import emoji
+
+result = emoji.emojize('Python is :green_heart:')
+print(result)
+
+------------------------
+
+Python is 💚
